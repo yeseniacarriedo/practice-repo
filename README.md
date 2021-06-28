@@ -16,3 +16,5 @@ Classwork (CW) activity: _Practicing git commands and Markdown._
 _This is an introductory exercise to practice your Markdown and git skills. Make sure to contact your instructor if there are any questions!_
 
 ***
+
+> Introduction to Data Science
