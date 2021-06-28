@@ -17,4 +17,4 @@ _This is an introductory exercise to practice your Markdown and git skills. Make
 
 ***
 
-> **Introduction to Data Science
+> **Introduction to Data Science**
