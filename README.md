@@ -12,4 +12,4 @@ Classwork (CW) activity: _Practicing git commands and Markdown._
 
 - As usual, remember to add -> commit -> push to your copy of the repo on GitHub
 
-_This is an introductory exercise to practice your Markdown and git skills._
+_This is an introductory exercise to practice your Markdown and git skills. Make sure to contact your instructor if there are any questions!_
