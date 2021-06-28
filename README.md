@@ -4,7 +4,7 @@
 
 Classwork (CW) activity: _Practicing git commands and Markdown._
 
-![](dataNetwork.jpg)
+![](dataNetwork.jpg "Data data data")
 
 
 ## Instructions: 
