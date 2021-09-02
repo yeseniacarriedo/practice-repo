@@ -1,27 +1,25 @@
 ## First Name Last Name
 
-### Term Year 
+### FA 2021 
 
 DSBA student at [Florida Polytechnic University](https://www.floridapoly.edu) currently enrolled in: 
 
-- Course 1
+- Intro to Data Science
 
-- Course 2
+- Calculus 1
 
-- Course 3
-
-- Course 4
+- Intro to Python
 
 **Hobbies:**
 
 I am _passionate about_: 
 
-- Thing 1
+- Anything
 
-- Thing 2
+- Something
 
-- Thing 3 as shown in this website <https://www.floridapoly.edu>
+- Food as shown in this website <https://www.floridapoly.edu>
 
 ***
 
-> Last modified: YYYY/MM/DD
+> Last modified: 2021/09/02
